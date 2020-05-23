@@ -1,0 +1,18 @@
+{
+  "name": "bfx-rest-easy",
+  "version": "1.0.0",
+  "description": "BFX Rest Easy - A lightweight & version agnostic REST API wrapper that takes care of the complexity of querying the Bitfinex REST API",
+  "main": "src/apiHelper.js",
+  "keywords": [
+    "Bitfinex",
+    "REST",
+    "Crypto",
+    "BFX"
+  ],
+  "author": "Garreth Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "request": "^2.88.2"
+  }
+}
