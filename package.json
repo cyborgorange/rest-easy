@@ -1,6 +1,6 @@
 {
   "name": "bfx-rest-easy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BFX Rest Easy - A lightweight & version agnostic REST API wrapper that takes care of the complexity of querying the Bitfinex REST API",
   "main": "src/apiHelper.js",
   "keywords": [
