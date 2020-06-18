@@ -12,8 +12,9 @@ The wrapper supports authenticated endpoints, simply pass a credentials object i
 ```javascript
 {key: "api key", secret: "api secret"}
 ```
+The wrapper will take care of generating the signature, and setting the headers.
 
-Source code available @ https://bitbucket.org/gaz-s/bfx-rest-easy
+Source code available @ https://github.com/cyborgorange/rest-easy
 
 The wrapper has Developer Awards enabled: https://www.bitfinex.com/affiliate meaning that any orders created through it will earn the developer a small rebate.
 
