@@ -2,7 +2,7 @@
 
 ## Rest-Easy is a lightweight wrapper for the REST API offered by the crypto-currency trading site Bitfinex: https://www.bitfinex.com
 
-The Bitfinex REST API has two versions available, however the wrapper is version agnostic.
+The Bitfinex REST API has two available versions, however the wrapper is version agnostic.
 Simply give a valid endpoint path and a correctly structured body to get a callback containing the response.
 
 * V1 API Documentation: https://docs.bitfinex.com/v1/reference
